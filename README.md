@@ -3,7 +3,7 @@
 I will be working to understand the results of an A/B test run by an e-commerce website. My goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 ## Overview
-This dataset cotains 2,00,000 rows of users in different groups(control and experiment) and is mainly focused on wheather user conversion rate is more on old page or new page.Control group is happen to land on the old page and experiment group is on the new page.
+This dataset cotains 2,00,000 rows of users in different groups(control and experiment) and is mainly focused on wheather user conversion rate is more on old page or new page.Control group is happen to land on the old page and experiment group is on the new page.conversion rate is also checked depending on country user lives. 
 
 Key indicators were:
 - Userid indicates sysytem generated numbers.
@@ -17,6 +17,7 @@ The project involved performing statistical analysis and drawing conclusions fro
 ### Statistical Analysis
 - Sampling Distribution,Hypothesis Testing
 - Logistic Regression
+- Correlation
 
 ## Technologies Used
 - Python, Numpy, Pandas, Matplotlib, scikit-learn,Scipy
