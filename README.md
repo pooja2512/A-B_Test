@@ -8,7 +8,7 @@ I will be working to understand the results of an A/B test run by an e-commerce 
 ## Overview
 This dataset cotains 2,00,000 rows of users in different groups(control and experiment) and is mainly focused on wheather user conversion rate is more on old page or new page.Control group is happen to land on the old page and experiment group is on the new page.conversion rate is also checked depending on country user lives. 
 
-[View Project Here]((https://in.udacity.com/)(https://github.com/pooja2512/DAND_term1_project_A-B_test/blob/master/Analyze_ab_test_results.ipynb))
+[View Project Here](https://github.com/pooja2512/DAND_term1_project_A-B_test/blob/master/Analyze_ab_test_results.ipynb)
 
 Key indicators were:
 - Userid indicates sysytem generated numbers.
