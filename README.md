@@ -1,6 +1,8 @@
 
-# DAND_term1_project_A-B_test
-Analyse A/B Test Results project was completed under certification of [Udacity Nanodegree Program]
+# DAND_Term1_Project_A-B_Test
+
+Analyse A/B Test Results project was completed under certification of [Udacity Nanodegree Program](https://in.udacity.com/)
+
 I will be working to understand the results of an A/B test run by an e-commerce website. My goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 ## Overview
