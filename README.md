@@ -1,10 +1,12 @@
 
 # DAND_term1_project_A-B_test
-(https://github.com/pooja2512/DAND_term1_project_A-B_test/blob/master/Analyze_ab_test_results.ipynb)
+Analyse A/B Test Results project was completed under certification of [Udacity Nanodegree Program]
 I will be working to understand the results of an A/B test run by an e-commerce website. My goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 ## Overview
 This dataset cotains 2,00,000 rows of users in different groups(control and experiment) and is mainly focused on wheather user conversion rate is more on old page or new page.Control group is happen to land on the old page and experiment group is on the new page.conversion rate is also checked depending on country user lives. 
+
+[View Project Here]((https://in.udacity.com/)(https://github.com/pooja2512/DAND_term1_project_A-B_test/blob/master/Analyze_ab_test_results.ipynb))
 
 Key indicators were:
 - Userid indicates sysytem generated numbers.
