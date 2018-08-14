@@ -29,6 +29,6 @@ The project involved performing statistical analysis and drawing conclusions fro
 - Jupyter Notebook
 
 ## Key Findings
--  Found the evidence that chance of conversion on old page was more than new page.
+-  Found the evidence that chance of conversion on old page was 90% superior than new page.
 - Conversion rate was not dependent on country user lives in.
 
